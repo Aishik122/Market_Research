@@ -8,4 +8,7 @@
 Gathering data from Google Maps about HR companies in the Kolkata market region.
 * data collection from Google maps
 * data collection from Google search engines
-* Data collection Done 7-11-2023 16:34 
+* Data collection Done 7-11-2023 16:34
+* city include Kolkata,Sector 5 , Bidhanngar,Sealdah,Siliguri,Darjeeling,Kharagpur,Durgapur,Raniganj,Hawrah,Asansol,Haldia,Hoogly
+* Data have 7 columns and 508 rows
+  
