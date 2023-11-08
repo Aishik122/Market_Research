@@ -12,3 +12,6 @@ Gathering data from Google Maps about HR companies in the Kolkata market region.
 * city include Kolkata,Sector 5 , Bidhanngar,Sealdah,Siliguri,Darjeeling,Kharagpur,Durgapur,Raniganj,Hawrah,Asansol,Haldia,Hoogly
 * Data have 7 columns and 508 rows
   
+# Day 2 (MNC'S, Indian, Home grown company, Head Quartered in Kolkata Data Collection)
+* data collection from Google maps
+* data cleaning done 
