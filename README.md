@@ -15,3 +15,7 @@ Gathering data from Google Maps about HR companies in the Kolkata market region.
 # Day 2 (MNC'S, Indian, Home grown company, Head Quartered in Kolkata Data Collection)
 * data collection from Google maps
 * data cleaning done 
+
+
+# Day 3 (MNC'S, Indian, Home grown company, Head Quartered in Kolkata Data Collection)
+* continue collecting and cleaning data from Google maps.
